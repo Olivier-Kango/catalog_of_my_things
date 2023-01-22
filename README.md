@@ -59,7 +59,7 @@ In order to run this project you need:
 Clone this project on your local machine using the following command on your terminal:
 
 ```sh
-  git clone https://github.com/KareemWilson/catalog-of-my-things.git
+  git clone https://github.com/Olivier-Kango/catalog-of-my-things.git
 ```
 
 ### Install
