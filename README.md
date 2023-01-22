@@ -27,6 +27,13 @@
 
 > A console app that will help you to keep a record of different types of things you own: books, music albums, movies, and games. The data will be stored in JSON files but you will also prepare a database with tables structure analogical to your program's class structure.
 
+Please click on the video below 👇 for more explanation 
+
+## Explanation video
+
+[<img src="https://user-images.githubusercontent.com/108806646/213559220-962f070b-95b8-4c96-8be4-c72822cea57a.png" alt="logo" width="600"  height="auto" />
+  <br/>](https://drive.google.com/file/d/1HcCqJvdYDdiRQoOS9LErWsMXdPc_Kx8d/view?usp=sharing)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
